@@ -16,7 +16,7 @@ I'm a software engineering student @[42Berlin](https://42berlin.de) since Decemb
 </div>
 </html>
 
-- 👩‍💻 I’m currently working on [Inception](https://github.com/cariestevez/inception)
+- 👩‍💻 I’m currently working on [Inception](https://youtu.be/mgSc_NhVQU8?si=Q5u53DWYqFlyxCXz)
 - 👯 I’m looking to collaborate in creative open source projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/carinaestevezorth)
 - 👽 Pronouns: she/her
