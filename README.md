@@ -1,6 +1,6 @@
 ![Header](./header.png)
 ## 🖖🙂 Hi
-I'm a software engineering student @[42Berlin](https://42berlin.de) since December 2022 and about to finish, fully ready to dive into the professional world. 
+I'm a software engineering student @[42Berlin](https://42berlin.de) since December 2022 and about to finish, fully ready to dive into the professional world. You won't regret hiring me <3
 <html>
 <div align="center">
 	<table>
