@@ -1,6 +1,6 @@
 ![Header](./header.png)
 ## 🖖🙂 Hi
-I'm a software engineering working at Delivery Hero
+I'm a software engineer working at Delivery Hero
 <html>
 <div align="center">
 	<table>
