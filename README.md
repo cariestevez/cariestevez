@@ -1,6 +1,6 @@
 ![Header](./header.png)
 ## 🖖🙂 Hi
-I'm a software engineering student @[42Berlin](https://42berlin.de) since December 2022 and about to finish, fully ready to dive into the professional world. You won't regret hiring me <3
+I'm a software engineering working at Delivery Hero
 <html>
 <div align="center">
 	<table>
@@ -16,10 +16,9 @@ I'm a software engineering student @[42Berlin](https://42berlin.de) since Decemb
 </div>
 </html>
 
-- 👩‍💻 I’m currently working on [Transcendence](https://github.com/deniz-oezdemir/Transcendence)
 - 👯 I’m looking to collaborate in creative open source projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/carinaestevezorth)
-- 👽 Pronouns: she/her
+- 👽 Pronouns: she/her, they/them
 <!--
 **cariestevez/cariestevez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
